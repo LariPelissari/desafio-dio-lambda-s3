@@ -43,7 +43,7 @@ graph TD;
     D -- (Opcional: Leitura) --> E[🌐 API Gateway];
 ```
 
-![Diagrama da Arquitetura](./image/proc_nf.png)
+![Diagrama da Arquitetura](./image/processo.png)
 
 
 ## 💡 Meus Principais Insights e Aprendizados
